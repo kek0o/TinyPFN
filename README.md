@@ -242,4 +242,4 @@ MIT
 
 ## Acknowledgments
 
-Based on ideas from [TabPFN](https://github.com/automl/TabPFN) and [TabICL](https://github.com/sxs-1/tabicl). Synthetic prior generation adapted from TabICL.
+Based on ideas from [TabPFN](https://github.com/PriorLabs/TabPFN) and [TabICL](https://github.com/soda-inria/tabicl). Synthetic prior generation adapted from TabICL.
