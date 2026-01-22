@@ -236,22 +236,6 @@ python export_weights_to_c.py --checkpoint tinypfn_prior_trained.pt
 python validate_esp32.py
 ```
 
----
-
-## Results
-
-On breast cancer dataset (5 features, 50 train / 50 test):
-
-| Metric | ESP32 |
-|--------|-------|
-| Accuracy | 94% |
-| Balanced Accuracy | 93.18% |
-| Inference Time | 7-57 ms |
-| Memory | ~72 KB |
-| Parameters | 890 |
-
----
-
 ## License
 
 MIT
