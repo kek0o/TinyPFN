@@ -236,10 +236,6 @@ python export_weights_to_c.py --checkpoint tinypfn_prior_trained.pt
 python validate_esp32.py
 ```
 
-## License
-
-MIT
-
 ## Acknowledgments
 
 Based on ideas from [TabPFN](https://github.com/PriorLabs/TabPFN) and [TabICL](https://github.com/soda-inria/tabicl). Synthetic prior generation adapted from TabICL.
